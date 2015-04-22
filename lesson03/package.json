@@ -1,0 +1,19 @@
+{
+  "name": "lesson03",
+  "version": "0.0.1",
+  "description": "node learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "app"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "wshp",
+  "license": "www",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "express": "^4.12.3",
+    "superagent": "^1.2.0"
+  }
+}

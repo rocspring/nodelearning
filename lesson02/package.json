@@ -1,0 +1,22 @@
+{
+  "name": "lesson02",
+  "version": "0.0.1",
+  "description": "node learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "www"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "wshp",
+  "license": "wsp",
+  "dependencies": {
+    "express": "^4.12.3",
+    "utility": "^1.3.1"
+  }
+}
